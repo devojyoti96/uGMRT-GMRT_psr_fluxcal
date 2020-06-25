@@ -1,0 +1,74 @@
+#####################################################
+	      uGMRT-GMRT_psr_fluxcal
+#####################################################
+@ Devojyoti Kansabanik, NCRA-TIFR, Pune, India (Date : 23/06/2020)
+####################################################
+
+Description : This package consists of several python scripts, which can be used to perform flux calibration of uGMRT/GMRT phased-array observations of pulsar.
+	      These scripts use the python wrapper of PSRCHIVE. It is mandatory to install PSRCHIVE with python wrapper to use these scripts.
+	      These scripts also use 'gptool' for RFI flagging and bandshape estimator. 
+	      This package allow user to perform several operations of raw uGMRT/GMRT data, based on user requirement. 
+	      This is a semi-automated pipeline.
+
+Required packages:
+
+1) Install PSRCHIVE with python wrapper. See details at : http://psrchive.sourceforge.net/manuals/python/
+2) Code is written in python 3.
+3) Code uses GMRT pulsar tool (gptool).
+4) For help and usage of any script type python script_name.py
+
+Observations required:
+
+1) At least one on and off scan on a standard flux calibrator source (e.g. 3C286,3C48 etc.)
+2) At least one on and off scan on a nearby phase calibrator source.
+3) Scan on pulsar
+
+Analysis Procedure:
+
+1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
